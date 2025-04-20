@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab5 Mironov D.M. 609-41m</string>
+    <string name="putMe">Нажми на меня!</string>
+    <string name="hello">Привет, кнопка работает!</string>
+</resources>
