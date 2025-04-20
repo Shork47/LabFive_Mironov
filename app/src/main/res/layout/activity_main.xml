@@ -23,6 +23,8 @@
         android:layout_gravity="center"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        android:backgroundTint="@color/light"
+        android:textColor="@color/black"
         />
 
 </LinearLayout>
